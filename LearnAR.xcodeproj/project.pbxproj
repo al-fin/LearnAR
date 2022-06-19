@@ -13,6 +13,7 @@
 		A1BAFF53285F409D00B1E2A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1BAFF51285F409D00B1E2A8 /* Main.storyboard */; };
 		A1BAFF55285F40A000B1E2A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1BAFF54285F40A000B1E2A8 /* Assets.xcassets */; };
 		A1BAFF58285F40A000B1E2A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1BAFF56285F40A000B1E2A8 /* LaunchScreen.storyboard */; };
+		A1BAFF5F285F423800B1E2A8 /* robot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A1BAFF5E285F423800B1E2A8 /* robot.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A1BAFF52285F409D00B1E2A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A1BAFF54285F40A000B1E2A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1BAFF57285F40A000B1E2A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A1BAFF5E285F423800B1E2A8 /* robot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = robot.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A1BAFF51285F409D00B1E2A8 /* Main.storyboard */,
 				A1BAFF54285F40A000B1E2A8 /* Assets.xcassets */,
 				A1BAFF56285F40A000B1E2A8 /* LaunchScreen.storyboard */,
+				A1BAFF5E285F423800B1E2A8 /* robot.usdz */,
 			);
 			path = LearnAR;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1BAFF5F285F423800B1E2A8 /* robot.usdz in Resources */,
 				A1BAFF58285F40A000B1E2A8 /* LaunchScreen.storyboard in Resources */,
 				A1BAFF55285F40A000B1E2A8 /* Assets.xcassets in Resources */,
 				A1BAFF53285F409D00B1E2A8 /* Main.storyboard in Resources */,
